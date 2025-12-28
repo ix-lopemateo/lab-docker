@@ -1,0 +1,7 @@
+IMAGE                             ID             DISK USAGE   CONTENT SIZE   EXTRA
+biocontainers/blast:v2.2.31_cv2   238717ec6983       2.99GB          831MB   U    
+docker/getting-started:latest     d79336f4812b       72.9MB         20.8MB        
+hello-world:latest                d4aaab6242e0       22.5kB         10.2kB   U    
+ixlopemateo/lab-docker:v1         72d4e0ccc2ec       1.21GB          335MB        
+python:3.11-slim                  158caf0e080e        214MB         47.9MB   U    
+ubuntu:latest                     c35e29c94501        141MB         30.8MB        
